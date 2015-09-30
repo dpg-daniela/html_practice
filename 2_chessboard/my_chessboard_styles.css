@@ -18,3 +18,17 @@ Note that I've included the background image for the page in this folder, "grey.
 Write your CSS rules below.
 
 */
+
+*
+	body {background-image: url("grey.png")}
+
+	.board {
+		border: 3px blue solid;
+      margin-bottom: 10px}
+
+    .square {
+    	background-color: blue 
+    }
+
+
+
